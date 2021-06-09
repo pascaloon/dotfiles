@@ -11,7 +11,7 @@ noremap P "*P
 nnoremap P "*P
 
 set number
-set relativenumber
+" set relativenumber
 set cursorline
 set hlsearch
 set ignorecase

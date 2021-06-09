@@ -3,6 +3,7 @@ call plug#begin('~/AppData/Local/nvim-data/plugged')
 " Plugins are downloaded here: C:\Users\passelin\AppData\Local\nvim-data\plugged\
 Plug 'sainnhe/sonokai'
 Plug 'easymotion/vim-easymotion'
+Plug 'tpope/vim-surround'
 call plug#end()
 
 " EasyMotion
